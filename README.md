@@ -4,13 +4,13 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live]()
+🔗 [View Portfolio Live](https://rajivmandal-portfolio.vercel.app/)
 
 ## 🛠️ Tech Stack
 
 - ⚛️ React.js
 - 🎨 Tailwind CSS
-- 💾 Netlify (for deployment)
+- 💾 Vercel (for deployment)
 - 🖥️ Vite (for development and build)
 - 🧩 Tailwind CSS for styling
 
