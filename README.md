@@ -1,6 +1,6 @@
-# 🌐 Animated Portfolio Website
+# 🌐 Mine Portfolio ...
 
-A sleek, responsive, and fully customizable **animated portfolio website** built using **React.js** and **Tailwind CSS**. This portfolio showcases my projects, skills, and experience as a developer.
+An interactive and responsive React.js portfolio powered by Tailwind CSS, highlighting my projects, skills, and hands-on experience. With smooth animations and modern design, it reflects my creativity and passion for web development. Dive in to explore my work and capabilities.
 
 ## 🚀 Live Demo
 
