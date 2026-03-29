@@ -4,7 +4,7 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live](https://1navin-portfolio.netlify.app/)
+🔗 [View Portfolio Live]()
 
 ## 🛠️ Tech Stack
 
@@ -27,5 +27,5 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/mrnavinkr/Portfolio.git
-cd my-portfolio
+git clone https:[//github.com/Rajiv-mandal04/Here_Portfolio.git]
+cd Portfolio-master
